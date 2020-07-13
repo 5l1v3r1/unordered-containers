@@ -13,7 +13,6 @@
 -- Copyright   :  2011 Bryan O'Sullivan
 -- License     :  BSD-style
 -- Maintainer  :  johan.tibell@gmail.com
--- Stability   :  provisional
 -- Portability :  portable
 --
 -- = WARNING

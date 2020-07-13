@@ -8,7 +8,6 @@
 -- Copyright   :  2010-2012 Johan Tibell
 -- License     :  BSD-style
 -- Maintainer  :  johan.tibell@gmail.com
--- Stability   :  provisional
 -- Portability :  portable
 --
 -- = WARNING
