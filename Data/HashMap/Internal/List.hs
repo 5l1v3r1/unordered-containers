@@ -3,7 +3,7 @@
 -- | Extra list functions
 --
 -- In separate module to aid testing.
-module Data.HashMap.List
+module Data.HashMap.Internal.List
     ( isPermutationBy
     , deleteBy
     , unorderedCompare

@@ -12,7 +12,7 @@
 -- understand what's going on here.
 --
 -- Code that uses this module should be compiled with -fno-full-laziness
-module Data.HashMap.Unsafe
+module Data.HashMap.Internal.Unsafe
     ( runST
     ) where
 
