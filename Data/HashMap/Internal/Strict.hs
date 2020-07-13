@@ -11,6 +11,20 @@
 -- Stability   :  provisional
 -- Portability :  portable
 --
+-- = WARNING
+--
+-- This module is considered __internal__.
+--
+-- The Package Versioning Policy __does not apply__.
+--
+-- The contents of this module may change __in any way whatsoever__
+-- and __without any warning__ between minor versions of this package.
+--
+-- Authors importing this module are expected to track development
+-- closely.
+--
+-- = Description
+--
 -- A map from /hashable/ keys to values.  A map cannot contain
 -- duplicate keys; each key can map to at most one value.  A 'HashMap'
 -- makes no guarantees as to the order of its elements.

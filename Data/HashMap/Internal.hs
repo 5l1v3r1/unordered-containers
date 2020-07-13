@@ -11,6 +11,18 @@
 #endif
 {-# OPTIONS_GHC -fno-full-laziness -funbox-strict-fields #-}
 
+-- | = WARNING
+--
+-- This module is considered __internal__.
+--
+-- The Package Versioning Policy __does not apply__.
+--
+-- The contents of this module may change __in any way whatsoever__
+-- and __without any warning__ between minor versions of this package.
+--
+-- Authors importing this module are expected to track development
+-- closely.
+
 module Data.HashMap.Internal
     (
       HashMap(..)
